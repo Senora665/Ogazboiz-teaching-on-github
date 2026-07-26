@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What it is- learning how to fork a repository and becoming a contributor on GitHub
 
 
@@ -20,3 +21,12 @@
 
 # &#x20;Edit the readme file of your forked repository and save.
 
+=======
+# What it is 
+it is about git
+
+# A Screenshot
+# Live link 
+https://github.com/ogazboiz/teaching.git
+# how to run it 
+>>>>>>> 3375bc0c82807448ed3fa337f25c3ef1167aca7c
