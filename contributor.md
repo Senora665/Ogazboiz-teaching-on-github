@@ -1,4 +1,8 @@
 Ogazboiz
+Name: Ifunanya Helen 
+Handle: Ifunanya-Helen123
+"Becoming better by attending GitHub class"
+	
 
 Name: Michael Ogungbe
 Handle: https://github.com/ogungbemichael/
