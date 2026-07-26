@@ -1,7 +1,7 @@
 # What it is 
-a practical class
+it is about git
+
 # A Screenshot
 # Live link 
-https://github.com/StellaOjo/teaching.git
+https://github.com/ogazboiz/teaching.git
 # how to run it 
-i downloaded and installed my github, cloned, and edited.
